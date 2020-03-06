@@ -513,7 +513,7 @@ h6 {
       background: #fcaf45;
 }
 
-#tw::before {
+#be::before {
       display: inline-block;
       content: '';
       border-radius: 100%;
