@@ -432,6 +432,26 @@ h6 {
       bottom: 0;
 }
 
+.project6 {
+      height: 550px;
+      background: url(img/portfolio-calendar.jpg) no-repeat 50% 100%;
+      background-size: cover;
+}
+
+.project6::after {
+      content: "collateral design.";
+      font-family: "Roboto Mono";
+      font-size: 36px;
+      position: relative;
+      color: #0f0f0f;
+      display: block;
+      top: 70%;
+      left: 90%;
+      right: 0;
+      bottom: 0;
+}
+
+
 @media(max-width: 768px) {
       .xzoom-container img {
            max-width: 680px;
